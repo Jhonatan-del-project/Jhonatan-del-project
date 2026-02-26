@@ -32,38 +32,40 @@ Desenvolvedor focado na criação de interfaces modernas, responsivas e perform�
     style="padding-right: 12px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" 
 />
-<img 
-    alt="React"
-    title="React"
-    width="35px" 
-    style="padding-right: 12px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" 
-/>
-<img 
-    alt="Git" 
-    title="Git"
-    width="35px" 
-    style="padding-right: 12px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" 
-/>
+<p align="left">
+  <img 
+    height="165" 
+    src="https://github-readme-stats.vercel.app/api?username=jhonatan-souza-191070233&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&cache_seconds=1800" 
+  />
+
+  <img 
+    height="165" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonatan-souza-191070233&theme=tokyonight&layout=compact&langs_count=6&cache_seconds=1800" 
+  />
 </p>
+
+---
+
+## Projetos em Destaque
+
+- Mini Loja Virtual  
+- Configurador de PC Gamer  
+- Landing Page Gamer  
+- Projeto com React  
 
 ---
 
 ## Estatísticas
 
-<p>
+<p align="left">
   <img 
-    align="left" 
     height="165" 
-    style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
   <img 
-      align="left" 
-      height="165" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&theme=tokyonight&layout=compact&langs_count=6" 
+    height="165" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&theme=tokyonight&layout=compact&langs_count=6" 
   />
 </p>
 
@@ -76,6 +78,3 @@ Desenvolvedor focado na criação de interfaces modernas, responsivas e perform�
 
 E-mail: jhonatanbtg07@gmail.com  
 LinkedIn: https://www.linkedin.com/in/jhonatan-souza-191070233/
-
-
-

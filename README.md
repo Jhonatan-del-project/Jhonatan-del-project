@@ -46,13 +46,6 @@ Desenvolvedor focado na criação de interfaces modernas, responsivas e perform�
 
 ---
 
-## Projetos em Destaque
-
-- Mini Loja Virtual  
-- Configurador de PC Gamer  
-- Landing Page Gamer  
-- Projeto com React  
-
 ---
 
 ## Estatísticas
